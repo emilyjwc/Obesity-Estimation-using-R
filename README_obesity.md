@@ -48,7 +48,3 @@ This project analyzes the relationship between lifestyle factors (eating habits,
 
 - **Language:** R
 - **Libraries:** caret, randomForest, e1071, ggplot2
-
-## Author
-
-Emily Chang — [LinkedIn](https://linkedin.com/in/emilyjwchang) · [Portfolio](https://emilychang.netlify.app)
